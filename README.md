@@ -10,7 +10,7 @@
 # Github Portfolio  
 ## First Year Project(s)
 1. [MES Sports Application](https://github.com/MacaroniJam/MES-Sports-Application)
-   - Description: A GUI Sports Management application for my final Object Oriented Programming group project.
+   - Description: A GUI Sports Management Application for my final Object Oriented Programming group project.
    - Language(s): Java
    - Role: Lead Programmer
    - Role Details: I distributed tasks and oversaw/reviewed my teammates' progress.
