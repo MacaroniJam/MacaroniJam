@@ -15,8 +15,8 @@
    - Role: Lead Programmer
    - Role Details: I distributed tasks and oversaw/reviewed my teammates' progress.
    - Scripts:
-        1. [FileManager.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/FileManagerpkg/FileManager.java)
-        2. [Menu.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/Menupkg/Menu.java)
+     - [FileManager.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/FileManagerpkg/FileManager.java)
+     - [Menu.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/Menupkg/Menu.java)
 
 ## Second Year Project(s)
 1. [Course Registration System](https://github.com/JMAJack/Course-Registration-System)
