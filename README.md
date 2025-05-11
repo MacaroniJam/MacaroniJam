@@ -18,6 +18,13 @@
         1. [FileManager.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/FileManagerpkg/FileManager.java)
         2. [Menu.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/Menupkg/Menu.java)
 
+## Second Year Project(s)
+1. [Course Registration System](https://github.com/JMAJack/Course-Registration-System)
+   - Description: A CLI Course Registration Management System made for my final Data Structures group project.
+   - Language(s): C++
+   - Role: Lead Programmer
+   - Role Details: I distributed tasks and oversaw/reviewed my teammates' progress.
+   - Scripts: I have worked on all scripts for the project.
 <!---
 MacaroniJam/MacaroniJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
