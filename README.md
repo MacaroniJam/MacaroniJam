@@ -8,9 +8,10 @@
 - 📫 Reach me by email: joelhenry171@gmail.com
 
 # Github Portfolio  
-## First Year Projects
+## First Year Project(s)
 1. [MES Sports Application:](https://github.com/MacaroniJam/MES-Sports-Application)
-   - Description: A GUI Sports Management application made for my final Object Oriented Programming group project using Java.
+   - Description: A GUI Sports Management application made for my final Object Oriented Programming group project.
+   - Language(s): Java
    - Role: Lead Programmer
    - Role Details: I distributed tasks and oversaw/reviewed my teammates' progress.
    - Scripts:
