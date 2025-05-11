@@ -10,7 +10,7 @@
 # Github Portfolio  
 ## First Year Project(s)
 1. [MES Sports Application](https://github.com/MacaroniJam/MES-Sports-Application)
-   - Description: A GUI Sports Management application made for my final Object Oriented Programming group project.
+   - Description: A GUI Sports Management application for my final Object Oriented Programming group project.
    - Language(s): Java
    - Role: Lead Programmer
    - Role Details: I distributed tasks and oversaw/reviewed my teammates' progress.
@@ -20,11 +20,11 @@
 
 ## Second Year Project(s)
 1. [Course Registration System](https://github.com/JMAJack/Course-Registration-System)
-   - Description: A CLI Course Registration Management System made for my final Data Structures group project.
+   - Description: A CLI Course Registration Management System for my final Data Structures group project.
    - Language(s): C++
    - Role: Lead Programmer
    - Role Details: I distributed tasks and oversaw/reviewed my teammates' progress.
-   - Scripts: I have worked on all scripts for this project.
+   - Scripts: I contributed to all scripts within the project.
 <!---
 MacaroniJam/MacaroniJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
