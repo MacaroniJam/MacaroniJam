@@ -8,8 +8,16 @@
 
 # Github Portfolio
 ## Personal Projects
-1. [DEW Engine]()
-   -
+1. [DEW Engine](https://github.com/MacaroniJam/DEW-Engine)
+   - Description: A personal video game engine project currently being developed by following [The Cherno Game Engine YouTube Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+   - Language(s): C++, C, Lua
+   - Resources:
+     - Logging System: spdlog
+     - Project Generation: Premake
+     - Window: GLFW
+     - Modern OpenGL Loader: Glad
+     - GUI: ImGui
+     - Math Library: GLM
    
 ## University Projects
 ### First Year Project(s)
