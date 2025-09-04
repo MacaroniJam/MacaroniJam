@@ -6,8 +6,13 @@
 - 🎮 My game portfolio is located on [here](https://macaroni-jam.itch.io/)
 - 📫 Reach me by email: joelhenry171@gmail.com
 
-# Github Portfolio  
-## First Year Project(s)
+# Github Portfolio
+## Personal Projects
+1. [DEW Engine]()
+   -
+   
+## University Projects
+### First Year Project(s)
 1. [MES Sports Application](https://github.com/MacaroniJam/MES-Sports-Application)
    - Description: A GUI Sports Management Information System, serving as a database for athletes, coaches, associations and events, for my final Object-Oriented Programming group project.
    - Language(s): Java
@@ -17,7 +22,7 @@
      - [FileManager.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/FileManagerpkg/FileManager.java)
      - [Menu.java](https://github.com/MacaroniJam/MES-Sports-Application/blob/main/MES-Sports-Application/src/Menupkg/Menu.java)
 
-## Second Year Project(s)
+### Second Year Project(s)
 1. [Course Registration System](https://github.com/JMAJack/Course-Registration-System)
    - Description: A CLI Course Registration Management System for my final Data Structures group project.
    - Language(s): C++
