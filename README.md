@@ -3,8 +3,7 @@
 - 🏫 I'm in my second year of pursuing a BSc in Gaming at the University of Technology, Jamaica
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, C++, Java and Unity
-- 📄 My Github portfolio is located [here](#github-portfolio)
-- 🎮 My game portfolio is located on https://macaroni-jam.itch.io/
+- 🎮 My game portfolio is located on [here](https://macaroni-jam.itch.io/)
 - 📫 Reach me by email: joelhenry171@gmail.com
 
 # Github Portfolio  
