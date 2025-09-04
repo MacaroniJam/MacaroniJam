@@ -1,6 +1,6 @@
 # About me 
 - 👋 Hi, I’m @MacaroniJam
-- 🏫 I'm in my second year of pursuing a BSc in Gaming at the University of Technology, Jamaica
+- 🏫 I'm in my Third year of pursuing a BSc in Gaming at the University of Technology, Jamaica
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, C++, Java and Unity
 - 🎮 My game portfolio is located on [here](https://macaroni-jam.itch.io/)
