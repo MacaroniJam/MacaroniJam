@@ -1,5 +1,5 @@
 # About me 
-- 👋 Hi, I’m @MacaroniJam
+- 👋 Hi, I’m Joel Henry (@MacaroniJam)
 - 🏫 I'm in my Third year of pursuing a BSc in Gaming at the University of Technology, Jamaica
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, C++, Java and Unity
