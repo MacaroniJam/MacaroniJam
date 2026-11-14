@@ -1,9 +1,9 @@
 # About me 
 - 👋 Hi, I’m Joel Henry (@MacaroniJam)
-- 🏫 I'm in my Third year of pursuing a BSc in Gaming at the University of Technology, Jamaica
+- 🏫 I'm in my Final year of pursuing a BSc in Gaming at the University of Technology, Jamaica
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, C++, Java and Unity
-- 🎮 My game portfolio is located on [here](https://macaroni-jam.itch.io/)
+- 🎮 My game portfolio is located at [here](https://macaroni-jam.itch.io/)
 - 📫 Reach me by email: joelhenry171@gmail.com
 
 # Github Portfolio
